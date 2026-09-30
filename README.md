@@ -2,6 +2,8 @@
 
 Experimental **Path of Exile 2** crafting assistant in **TypeScript**, with a **JEV** (joint expected value) layer for choosing the next crafting step.
 
+**GitHub:** [Mikewaite/poe2-craft-jev](https://github.com/Mikewaite/poe2-craft-jev)
+
 ## Status
 
 Early scaffold: item types, a stub decision engine, and room to plug in real mods, currency costs, and outcome probabilities.
